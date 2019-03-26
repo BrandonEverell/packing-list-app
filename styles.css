@@ -1,0 +1,25 @@
+body {
+    background-image: linear-gradient(to right, MediumAquamarine , Teal);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.display-box {
+    border: 1px solid black;
+    margin: 50px;
+    padding: 0;
+    width: 50vw;
+    height: 50vh;
+    background-color: WhiteSmoke;
+    /*justify-content: center;*/
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-title {
+    color: DarkSlateGray;
+    font-size: 150px;
+
+}
